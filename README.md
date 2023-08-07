@@ -5,3 +5,7 @@
 一个简单的 nodejs crud 项目
 后端 express + mongodb
 前端 nextjs + tailwindcss
+
+### tips
+
+制作 devcontainer 的时候需要绑定本地.ssh 目录 与 container 内部的.ssh
